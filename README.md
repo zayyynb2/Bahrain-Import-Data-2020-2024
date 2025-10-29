@@ -1,10 +1,13 @@
 # Bahrain-Import-Data-2020-2024
 
-## Problem Statement: 
+## Data Source
+Link of data source : https://www.data.gov.bh/pages/homepage/
+
+## Problem Statement
 
 Between 2020 and 2024, Bahrain’s art imports became more expensive and heavily dependent on a limited number of supplier countries, increasing financial risk and reducing market stability for local businesses.
 
-## Approaches:
+## Approaches
 
 
 
@@ -15,13 +18,18 @@ Between 2020 and 2024, Bahrain’s art imports became more expensive and heavily
 
 2- Which 5 artworks were imported with the highest total weight between 2020 -2024?
 
+![Screenshot 2025-10-29 at 11 01 21 PM](https://github.com/user-attachments/assets/4bac9c44-0ea7-49d1-be8d-b5178a8a0883)
 
 
 3- Which 10 artworks have the highest average unit price in Bahrain between 2020-2024?
 
+![Screenshot 2025-10-29 at 11 01 16 PM](https://github.com/user-attachments/assets/0426ae1a-20ad-4180-9445-198d56017607)
 
 
 4- How do monthly import patterns of artworks and collectibles change over time, and are there noticeable seasonal trends?
+
+![Screenshot 2025-10-29 at 11 00 59 PM](https://github.com/user-attachments/assets/d96e0644-688a-4996-8fe2-6bb85990ab64)
+
 
 ## Findings & Insights
 
