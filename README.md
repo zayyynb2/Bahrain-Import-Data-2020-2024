@@ -10,6 +10,7 @@ Between 2020 and 2024, Bahrain’s art imports became more expensive and heavily
 
 1- Which  countries supplied the highest import value of artworks to Bahrain during the period 2020–2024?
 
+![Screenshot 2025-10-29 at 11 01 08 PM](https://github.com/user-attachments/assets/32c1ac08-57fc-4b0f-baed-079e00f3f6b6)
 
 
 2- Which 5 artworks were imported with the highest total weight between 2020 -2024?
